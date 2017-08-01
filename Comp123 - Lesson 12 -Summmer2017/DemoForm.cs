@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Comp123___Lesson_12__Summmer2017
 {
-    public partial class Form1 : Form
+    public partial class DemoForm : Form
     {
-        public Form1()
+        public DemoForm()
         {
             InitializeComponent();
         }
